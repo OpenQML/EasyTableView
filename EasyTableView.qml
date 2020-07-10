@@ -100,6 +100,8 @@ Item {
 
                             color: backgroundColorHeader
 
+                            clip: true
+
                             Text {
                                 anchors.fill: parent
 
@@ -184,6 +186,8 @@ Item {
                                 height: parent.height
 
                                 color: backgroundColorBody
+
+                                clip: true
 
                                 Text {
                                     anchors.fill: parent
