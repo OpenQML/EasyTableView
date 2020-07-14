@@ -6,6 +6,8 @@ Window {
     width: 640
     height: 480
 
+	 title: "Hello World"
+
     Component.onCompleted: {
         var sample_list = []
 
